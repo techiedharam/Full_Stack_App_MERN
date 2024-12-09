@@ -1,0 +1,23 @@
+Full Stack App MERN
+
+Blog -> Routes 
+
+authentication and authrization 
+
+1. Get blogs - No need of auth 
+2. Create blog - Need authentication / Author 
+3. Edit blog - Need authentication / Author of this blog 
+4. Delete blog - Need authentication / Author of this blog 
+5. Get a specific blog - No need of auth
+
+
+2 Token 
+
+Access Token  --> short lived toekn -> 1hr , 2hr
+Refresh Token --> Long Lived token -> 1D , 1W, 1M 
+
+
+
+
+
+
